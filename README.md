@@ -17,5 +17,24 @@
 
 <img width="1624" height="569" alt="Снимок экрана 2025-11-24 230543" src="https://github.com/user-attachments/assets/c4e8c747-73cf-41cd-8f67-f070b0ef49e8" />
 
+Задание 2
+
+Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
+
+Задание 3
+
+Привяжите созданный шаблон к двум хостам. Также привяжите к обоим хостам шаблон Linux by Zabbix Agent.
+
+Ответ: 2-3
+
+<img width="1293" height="809" alt="Снимок экрана 2025-11-25 215358" src="https://github.com/user-attachments/assets/6cdc454b-6253-4e26-8396-e7e6a45fbecc" />
+
+<img width="1611" height="201" alt="Снимок экрана 2025-11-25 215326" src="https://github.com/user-attachments/assets/2391d12c-b85b-4908-b54a-188ef02faaca" />
+
+Задание 4
+
+Создайте свой кастомный дашборд.
+
+
 
  
