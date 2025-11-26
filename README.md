@@ -35,6 +35,8 @@
 
 Создайте свой кастомный дашборд.
 
+<img width="1601" height="865" alt="Снимок экрана 2025-11-26 202014" src="https://github.com/user-attachments/assets/61e45e5a-2856-4f32-93f6-17ae6c7d5d38" />
+
 
 
  
